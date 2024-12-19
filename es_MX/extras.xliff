@@ -157,6 +157,9 @@
         <source>Swedish</source>
         <target>sueco</target>
       </trans-unit>
+      <trans-unit id="languages.th" xml:space="preserve">
+        <source>Thai</source>
+      </trans-unit>
       <trans-unit id="languages.tr" xml:space="preserve">
         <source>Turkish</source>
         <target>turco</target>
@@ -700,6 +703,12 @@
       </trans-unit>
       <trans-unit id="servers.Malm" xml:space="preserve">
         <source>Malmö</source>
+      </trans-unit>
+      <trans-unit id="servers.ng" xml:space="preserve">
+        <source>Nigeria</source>
+      </trans-unit>
+      <trans-unit id="servers.Lagos" xml:space="preserve">
+        <source>Lagos</source>
       </trans-unit>
     </body>
   </file>
